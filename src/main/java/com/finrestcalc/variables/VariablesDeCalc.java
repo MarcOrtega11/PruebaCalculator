@@ -6,7 +6,7 @@ public class VariablesDeCalc {
 	private Double number2;
 	private String operation;
 	private Double result;
-
+	//Test Comment
 	
 	  public String getOperation() { return operation; }
 	  
